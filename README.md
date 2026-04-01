@@ -54,10 +54,10 @@ The system is divided into the following blocks:
 ## 📷 Schematic
 
 ### Power + Charger + LDO
-![Power Section](docs/power_schematic.png)
+https://github.com/harsh-hw-dev/Portable-blender-stm32/blob/main/Blender%20Jet/Schematic_1.png
 
 ### STM32 + Motor Driver
-![Control Section](docs/control_schematic.png)
+https://github.com/harsh-hw-dev/Portable-blender-stm32/blob/main/Blender%20Jet/Schematic_2.png
 
 ---
 
